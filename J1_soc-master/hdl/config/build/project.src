@@ -1,0 +1,4 @@
+verilog work ../peripheral_config.v
+verilog work ../genram.v
+verilog work ../clockDivider.v
+verilog work ../capture.v
